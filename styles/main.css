@@ -141,13 +141,11 @@
 }
 
 .tipone {
-    
-
     border: 3px solid rgba(0, 0, 0, 0.884);
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: ; 
+    text-align: center; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
@@ -156,7 +154,7 @@
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: ; 
+    text-align: center; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
