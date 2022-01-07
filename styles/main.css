@@ -17,6 +17,8 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding: 0.5em;
+    margin: 0.5em;
 }
 
 .fishmain {
@@ -24,6 +26,7 @@
     flex-direction: column;
     border: 5px solid rgba(0, 0, 0, 0.884);
     padding: 0.5em;
+    margin: 0.5em;
 }
 .fishHeader {
     border: 4px solid rgba(0, 0, 0, 0.884);
@@ -34,6 +37,8 @@
 }
 
 .fishone {
+    display: flex;
+    flex-direction: row-reverse;
     border: 3px solid rgba(0, 0, 0, 0.884);
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
@@ -44,6 +49,8 @@
 }
 
 .fishtwo {
+    display: flex;
+    flex-direction: row-reverse;
     border: 3px solid rgba(0, 0, 0, 0.884);
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
@@ -58,6 +65,7 @@
     flex-direction: column;
     border: 5px solid rgba(0, 0, 0, 0.884);
     padding: 0.5em;
+    margin: 0.5em;
   }
 
 .travelheader {
@@ -73,7 +81,7 @@
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: right; 
+    text-align: center; 
     font-family: fantasy, copperplate;
     font-size: 20px
 } 
@@ -83,7 +91,7 @@
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: right; 
+    text-align: center; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
@@ -100,7 +108,7 @@
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: right; 
+    text-align: center; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
@@ -110,7 +118,7 @@
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: right; 
+    text-align: center; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
@@ -120,6 +128,7 @@
     flex-direction: column;
     border: 5px solid rgba(0, 0, 0, 0.884);
     padding: 0.5em;
+    margin: 0.5em;
 
   }
 
@@ -132,11 +141,13 @@
 }
 
 .tipone {
+    
+
     border: 3px solid rgba(0, 0, 0, 0.884);
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: right; 
+    text-align: ; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
@@ -145,7 +156,7 @@
     background-color: rgb(255, 255, 255);
     padding: 0.5em;
     margin: 0.5em;
-    text-align: right; 
+    text-align: ; 
     font-family: fantasy, copperplate;
     font-size: 20px
 }
